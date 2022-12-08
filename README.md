@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bunny2906
+- 👋 Hi, I’m @Bunny2906 (Varun Kumar Reddy Pothula)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Strutures & Front-end Development 
 - 💞️ I’m looking to collaborate on Web Development
